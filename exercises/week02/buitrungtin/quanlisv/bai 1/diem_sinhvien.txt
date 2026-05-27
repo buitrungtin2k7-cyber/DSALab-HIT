@@ -1,0 +1,6 @@
+MSSV,HoTen,Diem
+18987,hau,1
+tin,10,10
+8234759,tin,10
+457342,truong,24
+457894,hau mon,36
